@@ -1,5 +1,5 @@
 name: 'US Holiday Action'
-description: 'GitHub Action that determines if today (system clock) is a US Holiday'
+description: 'GitHub Action that determines whether the current system clock date is a US Holiday'
 inputs:
   included_holidays:
     description: "A comma separated list of holiday names to include (from this list: https://github.com/bradymholt/us-holidays-helper/blob/12c6fa7f3e5f64565275a11e39f775177baf2407/src/index.ts#L13-L31)"
