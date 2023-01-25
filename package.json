@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@actions/core": "1.10.0",
+    "us-holidays-helper": "1.1.0"
+  }
+}
