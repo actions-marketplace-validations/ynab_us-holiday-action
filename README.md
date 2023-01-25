@@ -14,7 +14,7 @@ GitHub Action that determines whether the current system clock date is a US Holi
 
 ```yaml
 steps:
-  - uses: ynab/us-holiday-action@1.0
+  - uses: ynab/us-holiday-action@v1
     id: us-holiday-check
     with:
       included_holidays: "newYearsDay,martinLutherKingJrDay,presidentsDay,memorialDay,juneteenth,indigenousPeoplesDay,independenceDay,laborDay,thanksgiving,christmas,newYearsEve"  
