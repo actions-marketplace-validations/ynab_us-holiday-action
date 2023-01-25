@@ -1,4 +1,4 @@
-# US Holiday Action
+# US Holiday GitHub Action
 
 GitHub Action that determines whether the current system clock date is a US Holiday
 
